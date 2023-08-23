@@ -2,10 +2,10 @@
 Greetings All,
 I'm Arvindh Kumar G
 
-Task: Library Management 
-Front-end-technology: REACTJS
-Back-end-technology: SPRINGBOOT
-Database: MYSQL
+Task: Library Management ,
+Front-end-technology: REACTJS,
+Back-end-technology: SPRINGBOOT,
+Database: MYSQL.
 
 UI SCREENSHOT
 ![Capture](https://github.com/Arvindhkumar2000/Library-Management-Task/assets/132760898/f356cfa7-1079-48a3-a7bb-b96b5d8dd595)
