@@ -1,0 +1,28 @@
+ .body{
+    background: url(https://nationaltoday.com/wp-content/uploads/2022/08/4568107-min-1200x834.jpg);
+    background-repeat: no-repeat;
+    height:100vh;
+    min-width:100%;
+    background-size: cover;
+ 
+}
+  .login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    background-color:transparent;
+  }
+  *{
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: 600;
+    color:rgb(10, 0, 14)
+  }
+  .but{
+    background-color: rgba(240, 240, 124, 0.94);
+    border-radius: 15px;
+  }
